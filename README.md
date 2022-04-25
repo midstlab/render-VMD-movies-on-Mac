@@ -8,7 +8,7 @@ Tip: To find out what the command lines are for a certain change you make from t
 
 You can process several trajectories in the same tcl file, by superposing on the same CA trace; this will work even if there are mutations. 
 
-When you are happy, open VMD, and source your tcl script to get all your trajectories in the format you like. Give them the pose you like to creat your movie.
+When you are happy, open VMD, and source your tcl script to get all your trajectories in the format you like. Give them the pose you like to create your movie product.
 
 2. For each trajectory to visualize, turn on the display for that one only and source the second tcl script (moviemakerCA.tcl). This saves your output pictures, frame by frame in the same directory in .dat and .ppm formats. You need the .ppm files.
 
