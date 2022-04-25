@@ -16,5 +16,5 @@ When you are happy, open VMD, and source your tcl script to get all your traject
 
 4. Open Quicktime. Under File select 'Open image sequence' and select the directory which has all your .png files. When you hit 'Choose media' your movie will be made. You can save it with a suitable name.
 
-5. Delete you files with .png .dat and .ppm extensions
+5. Delete your files with .png .dat and .ppm extensions
 
