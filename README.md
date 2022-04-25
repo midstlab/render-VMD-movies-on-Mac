@@ -12,8 +12,6 @@ When you are happy, open VMD, and source your tcl script to get all your traject
 
 2. For each trajectory to visualize, turn on the display for that one only and source the second tcl script (moviemakerCA.tcl). This saves your output pictures, frame by frame in the same directory in .dat and .ppm formats. You need the .ppm files.
 
-Warning: My sample has 1051 frames to see the quality of the final product so this might take a while!
-
 3. Once the script stops running, open a terminal window on your Mac and source the next script (convert.txt). The sips command should already be installed on your Mac. This saves your output pictures, frame by frame in .png format. 
 
 4. Open Quicktime. Under File select 'Open image sequence' and select the directory which has all your .png files. When you hit 'Choose media' your movie will be made. You can save it with a suitable name.
